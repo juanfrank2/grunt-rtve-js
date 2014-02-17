@@ -1,0 +1,17 @@
+{
+    "name": "js-mobile",
+    "version": "0.0.1",
+    "dependencies": {
+        "qunit": "latest",
+        "jquery": "latest"
+    },
+    "ignore": [
+        "**/.*",
+        ".jshintrc",
+        "node_modules",
+        "components",
+        "bower",
+        "test",
+        "tests"
+    ]
+}
